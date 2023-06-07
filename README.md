@@ -96,7 +96,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd PATH
-  git clone https://github.com/KIsmoilov/hello_rails_react.git
+  git clone https://github.com/AbdimulhinYussuf3675/hello_rails_react.git
 ```
 
 ### Install
@@ -156,7 +156,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/KIsmoilov/hello_rails_react/issues).
+Feel free to check the [issues page](https://github.com/AbdimulhinYussuf3675/hello_rails_react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
